@@ -1,0 +1,6 @@
+# CMake
+bin/
+build/
+
+# dlfcn
+dlfcn-win32/
